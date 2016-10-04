@@ -2,6 +2,8 @@
 
 This is a sample application of LINE Notify, works on AWS Lambda.
 
+![screen shot](./screenshot0.png)
+
 ## Installation
 
     git clone https://github.com/hkusu/lambda-linenotify-bot
