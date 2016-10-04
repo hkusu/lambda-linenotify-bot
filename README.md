@@ -1,6 +1,6 @@
 # lambda-linenotify-bot
 
-This is a sample application running on the AWS lambda.
+This is a sample application of LINE Notify, works on AWS Lambda.
 
 ## Installation
 
