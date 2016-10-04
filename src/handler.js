@@ -16,7 +16,7 @@ export default (event, context, callback) => {
         'Content-Type': 'application/x-www-form-urlencoded',
       },
       data: querystring.stringify({
-        message: 'おはようございます！',
+        message: 'Hello!',
       }),
     }
   )
