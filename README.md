@@ -2,14 +2,14 @@
 
 This is a sample application of LINE Notify, works on AWS Lambda.
 
-![screen shot](./screenshot0.png)
+![screen shot](./screenshot0.jpg)
 
 ## Installation
 
     git clone https://github.com/hkusu/lambda-linenotify-bot
     npm install
 
-Get your token of LINE Notify in [https://notify-bot.line.me/ja/](https://notify-bot.line.me/ja/), and set token to the `.env` file.
+Get your token of LINE Notify in [https://notify-bot.line.me/](https://notify-bot.line.me/), and set token to the `.env` file.
 
     TOKEN = your token
 
