@@ -42,3 +42,7 @@ Upload the created app.zip in the console of the AWS Lambda.
 > Role, does not require special permissions.
 
 Triggers, select the `CloudWatch Events(Schedule)`.
+
+## Other documents
+
+- [LINE Notify を AWS Lambda (Node.js) から利用してみた](http://qiita.com/hkusu/items/75aca4e92eaf02c00db5)
