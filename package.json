@@ -6,7 +6,7 @@
   "scripts": {
     "lint": "eslint ./src/*; exit 0",
     "watch": "babel ./src/ --watch -d ./dist/ --source-maps inline",
-    "local-run": "node localRun.js",
+    "local-run": "node lambdaDriver.js",
     "build:babel": "babel ./src/ -d ./dist/",
     "build:zip": "zip -r ./app.zip ./index.js ./dist/ ./node_modules/ .env",
     "build": "npm run build:babel && npm run build:zip"
